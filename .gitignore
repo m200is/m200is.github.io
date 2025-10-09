@@ -25,3 +25,13 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Notion sync - 불필요한 문서 파일들
+examples.py
+setup.sh
+setup.bat
+requirements.txt
+NOTION_TO_GITHUB.md
+SETUP_SUMMARY.md
+notion_to_github.py
+notion_to_github_pages.py
