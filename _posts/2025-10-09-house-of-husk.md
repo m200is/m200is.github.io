@@ -265,5 +265,5 @@ function_done = __printf_function_table[(size_t) spec]
 
 ## References
 
-- [House of Husk | Axura](https://4xura.com/binex/house-of-husk/)
+- [Axura - House of Husk](https://4xura.com/binex/house-of-husk/)
 - Dreamhack wheat-and-barley 공식풀이
