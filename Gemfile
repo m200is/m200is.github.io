@@ -11,4 +11,6 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-#gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+# wdm은 Windows에서 파일 감시용이지만 선택사항입니다
+# 설치 오류 시 주석처리하고 사용하세요
+# gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
