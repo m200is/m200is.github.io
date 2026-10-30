@@ -1,7 +1,7 @@
 ---
 title: House of Husk
 date: 2025-10-09 13:45:00 +0900
-categories: [Pwnable, Exploitation]
+categories: [블로그/기술문서]
 tags: [glibc, heap, house-of-husk, pwn]
 ---
 
