@@ -16,7 +16,7 @@ timezone: asia/seoul
 
 title: Ka__g7 # the main title
 
-tagline: 원래 m200is였던 사람 # it will display as the subtitle
+tagline: 하지만 m200is를 더 많이쓰는 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
